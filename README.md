@@ -1,6 +1,6 @@
 # Simple Api Sistem Informasi Programming Comunity Bumigora
 
-# setting environtment
+# Setting Environtment
   - pastikan virtualenv sudah terinstall
   - buat directory baru kemudian masuk ke directory tersebut
   - ketk di terminal virtualenv env ==> membuat virtual baru
